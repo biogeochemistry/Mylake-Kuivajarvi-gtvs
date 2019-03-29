@@ -1,0 +1,4 @@
+[submodule "MyLake_C"]
+	path = MyLake_C
+	url = https://github.com/biogeochemistry/MyLake_C
+	branch = MyLake_C-gtsv
